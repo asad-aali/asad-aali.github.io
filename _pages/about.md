@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate <br> <a href="https://profiles.stanford.edu/dave-van-veen/">Stanford University</a> 
+subtitle: PhD Candidate <br> <a href="https://www.ece.utexas.edu/">Department of Electrical and Computer Engineering, The University of Texas at Austin</a> 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
 
