@@ -65,11 +65,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-linkedin_username: davevanveen # your LinkedIn user name
-scholar_userid: lP73UFAAAAAJ&hl # your Google Scholar ID
-github_username: davevanveen # your GitHub user name
-#instagram_id: dave.vv
-strava_userid: davevanveen
+linkedin_username: asadaali # your LinkedIn user name
+scholar_userid: mPq3RdwAAAAJ&hl # your Google Scholar ID
+github_username: asad-aali # your GitHub user name
 # to add more socials, see _includes/socials.html
 
 contact_note: >
@@ -253,8 +251,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [VanVeen, Van Veen]
-  first_name: [Dave, D., D.*]
+  last_name: [Aali, Aali*]
+  first_name: [Asad, A.]
 
   style: apa
   locale: en
