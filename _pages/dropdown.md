@@ -1,5 +1,5 @@
 ---
 layout: page
-title: resume
-permalink: /assets/pdf/resume_asad_aali.pdf
+title: cv
+permalink: /assets/pdf/cv_asad_aali.pdf
 ---
