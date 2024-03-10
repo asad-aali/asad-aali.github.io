@@ -10,6 +10,6 @@ nav_order: 3
 <!-- _pages/publications.md -->
 <div class="talks">
 
-{% talks %}
+{% bibliography %}
 
 </div>
