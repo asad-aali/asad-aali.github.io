@@ -6,7 +6,7 @@ subtitle: PhD Candidate <br> <a href="https://www.ece.utexas.edu/">Department of
 
 profile:
   align: right
-  image: 
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
