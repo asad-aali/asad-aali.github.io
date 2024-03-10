@@ -16,9 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an applied research scientist with interests lying in the use of AI and Machine Learning (ML) for:
-1. Inverse Problems in Computational Imaging
-2. Healthcare and Medicine
+I'm an applied research scientist with interests lying in the use of Generative AI and Machine Learning (ML) for:
+1. Computational Imaging
+2. Inverse Problems
+3. Biomedical Informatics
+
+I will be interning at Adobe in the Summer of 2024 as a Machine Learning Researcher.
 
 Currently, I am a second-year PhD student at the <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> department at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Prof <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>.
 
