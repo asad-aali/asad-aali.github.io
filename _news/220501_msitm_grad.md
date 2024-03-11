@@ -4,4 +4,4 @@ date: 2022-05-01 15:59:00-0400
 inline: true
 ---
 
-Graduated with a Master's in Information Technology [(MSITM)](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/) from The University of Texas at Austin.
+Graduated with a Master's in Information Technology [(MSITM)](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/) from University of Texas at Austin.
