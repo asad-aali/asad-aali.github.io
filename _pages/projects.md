@@ -9,7 +9,7 @@ nav_order: 3
 
 <!-- pages/projects.md -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
+{% if site.enable_project_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
