@@ -1,6 +1,6 @@
 <div class="talks">
-  {% if site.news != blank %}
-    {% assign news_size = site.news | size %}
+  {% if site.talks != blank %}
+    {% assign news_size = site.talks | size %}
     <div
       class="table-responsive"
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
@@ -8,13 +8,13 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
+        {% assign talks = site.talks | reverse %}
         {% if include.limit and site.announcements.limit %}
           {% assign news_limit = site.announcements.limit %}
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
-        {% for item in news limit: news_limit %}
+        {% for item in talks limit: news_limit %}
           <tr>
             <td scope="row" style="width: 12.5%; font-size: smaller; vertical-align: middle;">{{ item.date | date: '%b %Y' }}</td>
             <td>
