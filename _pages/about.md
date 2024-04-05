@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate <br> <a href="https://www.ece.utexas.edu/">Department of Electrical and Computer Engineering, The University of Texas at Austin</a> 
+subtitle: M.S. <br> <a href="https://www.ece.utexas.edu/">Department of Electrical and Computer Engineering, The University of Texas at Austin</a> 
 
 profile:
   align: right
@@ -17,17 +17,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an applied research scientist with interests lying in the use of Generative AI and Machine Learning (ML) for:
+I'm an applied research scientist with interests lying in the use of Deep Learning for:
 1. Computational Imaging
 2. Inverse Problems
 3. Biomedical Informatics
 
-I will be interning at Adobe in the Summer of 2024 as a Machine Learning Researcher.
-
 ## bio
-Currently, I am a second-year PhD student at the <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> department at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Prof <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>.
+Currently, I am a Master's student in the <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> department at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Prof <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>.
 
-During the first year of my PhD, I completed a research internship at <a href="https://www.onemedical.com/">One Medical</a>, a division of <a href="https://health.amazon.com/">Amazon Health</a>.
+During my M.S. in ECE, I completed a research internship at <a href="https://www.onemedical.com/">One Medical</a>, a division of <a href="https://health.amazon.com/">Amazon Health</a>.
 
-Previously, I earned an MS in Information Technology at the University of Texas at Austin and completed my capstone project at <a href="https://www.dell.com/en-us">Dell Technologies</a>, as a Machine Learning Engineer.
+Previously, I graduated with a <a href="https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/">Master of Science in Information Technology (MSITM)</a> from The University of Texas at Austin and completed my capstone project at <a href="https://www.dell.com/en-us">Dell Technologies</a>, as a Machine Learning Engineer.
 <br>
