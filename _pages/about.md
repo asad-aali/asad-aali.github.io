@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. <br> <a href="https://www.ece.utexas.edu/">Department of Electrical and Computer Engineering, The University of Texas at Austin</a> 
+subtitle: M.S. Candidate<br> <a href="https://www.ece.utexas.edu/">Department of Electrical and Computer Engineering, The University of Texas at Austin</a> 
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an applied research scientist with interests lying in the use of Deep Learning for:
+I'm an applied research scientist with interests lying in the use of deep learning for:
 1. Computational Imaging
 2. Inverse Problems
 3. Biomedical Informatics
