@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research scientist in the Integrative Biomedical Imaging Informatics group at Stanford (<a href="https://ibiis.stanford.edu/">IBIIS</a>). My work involves the development of artificial intelligence and machine learning algorithms for applications in:
+I am a research engineer part of the Integrative Biomedical Imaging Informatics group at Stanford (<a href="https://ibiis.stanford.edu/">IBIIS</a>). My work involves the development of artificial intelligence and machine learning algorithms for applications in:
 1. Computer Vision
 2. Medical Imaging
 3. Biomedical Informatics
