@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Candidate<br> <a href="https://www.ece.utexas.edu/">Department of Electrical and Computer Engineering, The University of Texas at Austin</a> 
+subtitle: Research Engineer<br> <a href="https://med.stanford.edu/">Stanford Medicine</a> 
 
 profile:
   align: right
@@ -17,15 +17,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an applied research scientist with interests lying in the use of deep learning for:
-1. Computational Imaging
-2. Inverse Problems
+I am a research scientist actively working on developing artificial intelligence and machine learning algorithms for applications in:
+1. Computer Vision
+2. Medical Imaging
 3. Biomedical Informatics
 
 ## bio
-Currently, I am a Master's student in the <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> department at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Prof <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>.
+Currently, I am finishing my Master's degree in the <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> department at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>.
 
-During my M.S. in ECE, I completed a research internship at <a href="https://www.onemedical.com/">One Medical</a>, a division of <a href="https://health.amazon.com/">Amazon Health</a>.
-
-Previously, I graduated with a <a href="https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/">Master of Science in Information Technology (MSITM)</a> from The University of Texas at Austin and completed my capstone project at <a href="https://www.dell.com/en-us">Dell Technologies</a>, as a Machine Learning Engineer.
+During my MS in ECE, I completed a research internship at <a href="https://health.amazon.com/">Amazon Health</a>. Previously, I graduated with a <a href="https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/">Master of Science in Information Technology (MSITM)</a> from The University of Texas at Austin and completed my capstone project at <a href="https://www.dell.com/en-us">Dell Technologies</a>, as a Machine Learning Engineer.
 <br>
