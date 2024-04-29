@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Engineer<br> Integrative Biomedical Imaging Informatics (IBIIS), <a href="https://ibiis.stanford.edu/">Stanford Medicine</a> 
+subtitle: Research Engineer<br> <a href="https://ibiis.stanford.edu/">Stanford Medicine</a> 
 
 profile:
   align: right
