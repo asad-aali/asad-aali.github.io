@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Data Analyst<br> <a href="https://ibiis.stanford.edu/">Stanford University</a> 
+subtitle: Research Data Analyst<br> <a href="https://profiles.stanford.edu/asadaali">Stanford University</a> 
 
 profile:
   align: right
@@ -23,7 +23,5 @@ I am a research data analyst in the Integrative Biomedical Imaging Informatics g
 3. Biomedical Informatics
 
 ## bio
-Prior to joining Stanford, I graduated with a Master's in <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> from <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>.
-
-During my MS in ECE, I completed a research internship at <a href="https://health.amazon.com/">Amazon Health</a>, exploring the application of large language models (LLMs) in clinical text summarization tasks. Previously, I graduated with a Master of Science in Information Technology (<a href="https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/">MSITM</a>) from The University of Texas at Austin and completed my capstone project at <a href="https://www.dell.com/en-us">Dell Technologies</a>, as a Machine Learning Engineer.
+Prior to joining Stanford, I graduated with a Master's in <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> from <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>. During my MS in ECE, I completed a research internship at <a href="https://health.amazon.com/">Amazon Health</a>, exploring the application of large language models (LLMs) in clinical text summarization tasks.
 <br>
