@@ -813,6 +813,55 @@ footer.sticky-bottom {
   }
 }
 
+.publication-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.publication-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.cover-image img {
+  width: 150px; /* Adjust the size of the cover image */
+  height: auto;
+  margin-right: 20px; /* Space between image and details */
+}
+
+.publication-details {
+  flex: 1;
+}
+
+.publication-details h2 {
+  font-size: 1.2rem;
+  margin: 0 0 5px;
+}
+
+.publication-details p {
+  margin: 5px 0;
+}
+
+.publication-links {
+  margin-top: 10px;
+}
+
+.publication-links a.button {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color: #e0e0e0;
+  border-radius: 3px;
+  text-decoration: none;
+  color: black;
+}
+
+.publication-links a.button:hover {
+  background-color: #d0d0d0;
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;

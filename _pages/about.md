@@ -22,6 +22,5 @@ I am a research data analyst in the Integrative Biomedical Imaging Informatics g
 2. Medical Imaging
 3. Biomedical Informatics
 
-## bio
 Before joining Stanford, I completed my Master's in <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>. I also interned at <a href="https://health.amazon.com/">Amazon Health</a>, focusing on large language models (LLMs) for clinical text summarization.
 <br>
