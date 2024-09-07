@@ -5,12 +5,12 @@ permalink: /
 subtitle: Research Data Analyst<br> <a href="https://profiles.stanford.edu/asadaali">Stanford University</a> 
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
-news: true # includes a list of news items
+news: false
 projects: true
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,5 +23,5 @@ I am a research data analyst in the Integrative Biomedical Imaging Informatics g
 3. Biomedical Informatics
 
 ## bio
-Prior to joining Stanford, I graduated with a Master's in <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> from <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>. During my MS in ECE, I completed a research internship at <a href="https://health.amazon.com/">Amazon Health</a>, exploring the application of large language models (LLMs) in clinical text summarization tasks.
+Before joining Stanford, I completed my Master's in <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>. I also interned at <a href="https://health.amazon.com/">Amazon Health</a>, focusing on large language models (LLMs) for clinical text summarization.
 <br>
