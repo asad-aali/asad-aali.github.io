@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+{% bibliography %}
+
 <div class="publication-list">
   {% for pub in site.data.papers %}
     <div class="publication-item">
