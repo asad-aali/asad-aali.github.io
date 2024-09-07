@@ -7,15 +7,16 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
 <div class="publications">
-
-<div class="publication-list">
-  {% for pub in site.bibliography %}
+  <div class="publication-list">
+    {% bibliography %}
+    {% for pub in bibliography %}
     <div class="publication-item">
       <!-- Cover Image on the Left -->
       <div class="cover-image">
-        <img src="{{ pub.cover_image }}" alt="Cover image for {{ pub.title }}">
+        {% if pub.cover_image %}
+          <img src="{{ pub.cover_image }}" alt="Cover image for {{ pub.title }}">
+        {% endif %}
       </div>
       
       <!-- Publication Details on the Right -->
@@ -39,7 +40,6 @@ nav_order: 2
         </div>
       </div>
     </div>
-  {% endfor %}
-</div>
-
+    {% endfor %}
+  </div>
 </div>
