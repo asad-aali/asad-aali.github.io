@@ -9,10 +9,9 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
-{% bibliography %}
 
 <div class="publication-list">
-  {% for pub in site.data.papers %}
+  {% for pub in site.bibliography %}
     <div class="publication-item">
       <!-- Cover Image on the Left -->
       <div class="cover-image">
@@ -41,4 +40,6 @@ nav_order: 2
       </div>
     </div>
   {% endfor %}
+</div>
+
 </div>
