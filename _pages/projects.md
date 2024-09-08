@@ -1,9 +1,12 @@
 ---
 layout: page
-title: talks
 permalink: /talks/
+title: Talks
+description: 
 nav: true
 nav_order: 3
 ---
 
-{% include projects.liquid %}
+<div class="publications">
+    {% bibliography %}
+</div>

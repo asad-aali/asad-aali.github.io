@@ -1,45 +1,12 @@
 ---
-layout: page
+layout: empty
 permalink: /publications/
-title: publications
+title: Publications
 description: 
 nav: true
 nav_order: 2
 ---
 
-<div class="publications">
-  <div class="publication-list">
-    {% bibliography %}
-    {% for pub in bibliography %}
-    <div class="publication-item">
-      <!-- Cover Image on the Left -->
-      <div class="cover-image">
-        {% if pub.cover_image %}
-          <img src="{{ pub.cover_image }}" alt="Cover image for {{ pub.title }}">
-        {% endif %}
-      </div>
-      
-      <!-- Publication Details on the Right -->
-      <div class="publication-details">
-        <h2>{{ pub.title }}</h2>
-        <p>{{ pub.author }}</p>
-        <p><em>{{ pub.journal }}</em>, {{ pub.year }}</p>
-        <div class="publication-links">
-          {% if pub.html %}
-            <a href="{{ pub.html }}" class="button">HTML</a>
-          {% endif %}
-          {% if pub.pdf %}
-            <a href="{{ pub.pdf }}" class="button">PDF</a>
-          {% endif %}
-          {% if pub.code %}
-            <a href="{{ pub.code }}" class="button">CODE</a>
-          {% endif %}
-          {% if pub.slides %}
-            <a href="{{ pub.slides }}" class="button">SLIDES</a>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://scholar.google.com/citations?user=rsj1p3EAAAAJ&hl" />
+</head>
