@@ -19,10 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Asad is a research data analyst in the <a href="https://ibiis.stanford.edu/">Integrative Biomedical Imaging Informatics</a> (IBIIS) group at Stanford, advised by Dr. <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. His work involves the development of artificial intelligence (AI) algorithms for applications in:
-1. Medical Imaging
-2. Biomedical Informatics
-3. Deep Learning
+Asad is a research data analyst in the <a href="https://ibiis.stanford.edu/">Integrative Biomedical Imaging Informatics</a> (IBIIS) group at Stanford, advised by Dr. <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. His work involves the development of deep learning algorithms for applications in biomedical imaging and clinincal natural language processing.
 
 Before joining Stanford, he completed his Master's in <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>. He also interned at <a href="https://health.amazon.com/">Amazon</a>, researching the role of adapted large language models (LLMs) in clinical text summarization tasks.
 <br>
