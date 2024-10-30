@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Asad is a research data analyst in the <a href="https://ibiis.stanford.edu/">Integrative Biomedical Imaging Informatics</a> (IBIIS) group at Stanford, advised by Dr. <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. His work focuses on developing artificial intelligence (AI) algorithms for clinical applications. His research interest spans:
+Asad is a research data analyst in the <a href="https://ibiis.stanford.edu/">Integrative Biomedical Imaging Informatics</a> (IBIIS) group at Stanford, advised by Dr. <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. His work focuses on developing artificial intelligence (AI) algorithms for clinical applications, and his research interest spans:
 
 1. Biomedical Imaging
 2. Large Language Models
