@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Data Analyst<br> <a href="https://profiles.stanford.edu/asadaali">Stanford University</a> 
+subtitle: Research Scientist<br> <a href="https://profiles.stanford.edu/asadaali">Stanford University</a> 
 
 profile:
   align: center
@@ -19,11 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Asad is a research data analyst in the <a href="https://ibiis.stanford.edu/">Integrative Biomedical Imaging Informatics</a> (IBIIS) group at Stanford, advised by Dr. <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. His work focuses on developing artificial intelligence (AI) algorithms for clinical applications, and his research interest spans:
+I am a research scientist at <a href="https://ibiis.stanford.edu/">Stanford University</a>, advised by <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. 
 
-1. Biomedical Imaging
-2. Large Language Models
-3. Deep Learning
+My work focuses on developing machine learning (ML) algorithms for healthcare applications, and my research interest spans:
 
-Before joining Stanford, he completed his Master's in <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering (ECE)</a> at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, advised by Dr. <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a>. He also interned at <a href="https://health.amazon.com/">Amazon</a>, researching the role of adapted large language models (LLMs) in clinical text summarization tasks.
+1. Machine Learning
+2. Foundation Models
+3. Healthcare
+
+Before joining Stanford, I completed a Master's in Electrical and Computer Engineering (ECE) at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I was mentored by <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a> and <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I also completed a research internship at <a href="https://health.amazon.com/">Amazon</a>, studying the landscape of adapted large language models (LLMs) in clinical text summarization tasks.
 <br>
