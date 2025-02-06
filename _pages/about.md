@@ -19,9 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at <a href="https://ibiis.stanford.edu/">Stanford University</a>, advised by <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. 
-
-My work focuses on developing machine learning (ML) algorithms for healthcare applications, and my research interest spans:
+I am a research scientist at <a href="https://ibiis.stanford.edu/">Stanford University</a>, advised by <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. My work focuses on developing machine learning (ML) algorithms for healthcare applications, and my research interest spans:
 
 1. Machine Learning
 2. Foundation Models
