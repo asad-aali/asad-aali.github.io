@@ -6,7 +6,7 @@ subtitle: Research Scientist<br> <a href="https://profiles.stanford.edu/asadaali
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image: prof_pic.png
   image2: stanford.png
   image3: UT.png
   image_circular: false # crops the image to make it circular
