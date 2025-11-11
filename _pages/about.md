@@ -8,7 +8,7 @@ profile:
   align: center
   image: prof_pic.png
   image2: stanford.png
-  image3: "<img src='assets/img/apple.png' alt='Apple logo' width='100'>"
+  image3: apple.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
