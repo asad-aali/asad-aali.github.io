@@ -1151,10 +1151,3 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
-
-img[src*="apple.png"] {
-  width: 100px;
-  max-width: 20%;
-  display: block;
-  margin: 0.5em auto;
-}
