@@ -29,7 +29,7 @@ layout: default
     </header>
   </div>
   
- <div style="display: flex; justify-content: center; align-items: center; transform: translateX(-15px);">
+ <div style="display: flex; justify-content: center; align-items: center; transform: translateX(-10px);">
   {% if page.profile.image2 %}
     {% assign profile_image_path = page.profile.image2 | prepend: 'assets/img/' %}
     <img src="{{ profile_image_path }}" 
@@ -40,7 +40,7 @@ layout: default
   {% if page.profile.image3 %}
     {% assign profile_image_path = page.profile.image3 | prepend: 'assets/img/' %}
     <img src="{{ profile_image_path }}" 
-         style="width: 130px; height: auto; transform: translateY(-5px);" 
+         style="width: 130px; height: auto; transform: translateY(-2px);" 
          alt="Additional Image">
   {% endif %}
  </div>
