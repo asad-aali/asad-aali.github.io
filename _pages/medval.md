@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: empty
+permalink: /medval/
 title: MedVAL
-permalink: /MedVAL/
 ---
 
-<script>
-  window.location.href = "https://asadaali.com/MedVAL";
-</script>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://asadaali.com/MedVAL" />
+</head>
