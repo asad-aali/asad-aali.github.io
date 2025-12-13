@@ -5,5 +5,5 @@ permalink: /MedVAL/
 ---
 
 <script>
-  window.location.href = "https://medval.onrender.com/";
+  window.location.href = "https://asadaali.com/MedVAL";
 </script>
