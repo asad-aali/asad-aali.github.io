@@ -23,5 +23,6 @@ I am a research scientist at <a href="https://ibiis.stanford.edu/">Stanford Univ
 
 I will be joining <a href="https://machinelearning.apple.com/">Apple</a> as a Machine Learning intern in Summer 2026.
 
-Before joining Stanford, I completed a Master's in Electrical and Computer Engineering (ECE) at the <a href="https://www.utexas.edu/">University of Texas at Austin</a>, where I was mentored by <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a> and <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>.
+Before joining Stanford, I completed a Master's in Electrical and Computer Engineering at <a href="https://www.utexas.edu/">UT Austin</a>, where I was mentored by <a href="https://users.ece.utexas.edu/~jtamir/">Jon Tamir</a> and <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>.
+
 <br>
