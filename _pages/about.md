@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-My research focuses on developing _reliable_, _efficient_, and _scalable_ **Computer Systems for AI** applications.
+My research focuses on developing _reliable_, _efficient_, and _scalable_  **Computer Systems for AI** applications.
 
 **Update:** I will be joining <a href="https://machinelearning.apple.com/">Apple</a> as a Machine Learning intern in Summer 2026
 
