@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I am a research scientist at <a href="https://ibiis.stanford.edu/">Stanford University</a>, and my research focuses on **Computer Systems for AI**
+My research focuses on developing reliable, efficient, and scalable **Computer Systems for AI** applications.
 
 **Update:** I will be joining <a href="https://machinelearning.apple.com/">Apple</a> as a Machine Learning intern in Summer 2026
 
