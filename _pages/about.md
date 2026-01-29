@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at <a href="https://ibiis.stanford.edu/">Stanford University</a>, and my research focuses on developing **computer systems for AI applications**.
+I am a research scientist at <a href="https://ibiis.stanford.edu/">Stanford University</a>, and my research focuses on **computer systems for AI**.
 
-I will be joining <a href="https://machinelearning.apple.com/">Apple</a> as a Machine Learning intern in Summer 2026.
+**Update:** I will be joining <a href="https://machinelearning.apple.com/">Apple</a> as a Machine Learning intern in Summer 2026.
 
 <br>
