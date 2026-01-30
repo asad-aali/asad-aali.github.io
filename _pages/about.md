@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br> Founder @ <a href="https://nexej.com/">Nexej</a><br> MS ECE @ <a href="https://www.utexas.edu/">UT Austin</a>
+subtitle: Researcher @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br> Founder @ <a href="https://nexej.com/">Nexej</a>
 
 profile:
   align: center
