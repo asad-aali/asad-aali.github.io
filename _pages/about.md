@@ -27,7 +27,7 @@ I'm a research scientist at <a href="https://med.stanford.edu/mimi.html">Stanfor
 
 1) <a href="https://asadaali.com/medval">MedVAL</a>: An expert-level AI system for detecting errors in AI-generated medical text (<a href="https://arxiv.org/abs/2507.03152">Paper</a>)
    
-2) <a href="https://github.com/stanford-crfm/helm/pull/3893">DSPy-HELM</a>: A systematic integration of <a href="https://dspy.ai/">DSPy</a> prompting with <a href="https://crfm.stanford.edu/helm/">HELM</a> benchmarking for more robust evaluation of language models (<a href="https://arxiv.org/abs/2511.20836">Paper</a>)
+2) <a href="https://github.com/stanford-crfm/helm/pull/3893">DSPy-HELM</a>: A systematic integration of <a href="https://dspy.ai/">DSPy</a> prompting with <a href="https://crfm.stanford.edu/helm/">HELM</a> benchmarking (<a href="https://arxiv.org/abs/2511.20836">Paper</a>)
 
 **Update:** I will be joining <a href="https://machinelearning.apple.com/">Apple</a> as a Machine Learning intern in Summer 2026
 
