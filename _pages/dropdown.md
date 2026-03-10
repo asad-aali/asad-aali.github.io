@@ -1,7 +1,5 @@
 ---
-layout: page
-title: CV
+layout: empty
 permalink: /assets/pdf/cv_asad_aali.pdf
-nav: true
-nav_order: 5
+title: CV
 ---
