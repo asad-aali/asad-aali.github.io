@@ -66,6 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+linkedin_username: asadaali
 scholar_userid: rsj1p3EAAAAJ&hl # your Google Scholar ID
 github_username: asad-aali # your GitHub user name
 # to add more socials, see _includes/socials.html
