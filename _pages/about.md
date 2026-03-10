@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br>ML Intern @ <a href="https://machinelearning.apple.com/">Apple
+subtitle: CS PhD @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br>AI Researcher @ <a href="https://machinelearning.apple.com/">Apple
 
 profile:
   align: center
@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I'm a research scientist at <a href="https://med.stanford.edu/mimi.html">Stanford University</a>, where I work on **AI** and **healthcare**
+I'm an incoming CS PhD at <a href="https://med.stanford.edu/mimi.html">Stanford University</a>, and my research focuses on AI and healthcare
 
 **Research:**
 
