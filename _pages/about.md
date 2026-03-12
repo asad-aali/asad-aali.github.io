@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I'm an incoming CS PhD at <a href="https://med.stanford.edu/mimi.html">Stanford University</a>, and my research focuses on **AI** and **biomedicine**
+I'm an incoming CS PhD at <a href="https://www.cs.stanford.edu/">Stanford University</a>, and my research focuses on **AI** and **biomedicine**
 
 **Research:**
 
