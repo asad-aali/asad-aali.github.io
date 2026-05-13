@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS PhD @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br>ML Intern @ <a href="https://machinelearning.apple.com/">Apple</a><br><a href="https://knight-hennessy.stanford.edu/scholars">Knight-Hennessy Scholar
+subtitle: CS PhD @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br>ML Intern @ <a href="https://machinelearning.apple.com/">Apple</a>
 
 profile:
   align: center
