@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS PhD @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br>ML Intern @ <a href="https://machinelearning.apple.com/">Apple
+subtitle: CS PhD @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a><br>ML Intern @ <a href="https://machinelearning.apple.com/">Apple</a><br><a href="https://knight-hennessy.stanford.edu/scholars">Knight-Hennessy Scholar
 
 profile:
   align: center
@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I'm a CS PhD at <a href="https://www.cs.stanford.edu/">Stanford University</a> supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Fellowship</a>, and my research focuses on **AI** and **biomedicine**
+I'm a CS PhD at <a href="https://www.cs.stanford.edu/">Stanford University</a> supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Fellowship</a>
 
 **Research:**
 
