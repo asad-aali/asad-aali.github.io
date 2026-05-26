@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I'm a CS PhD at <a href="https://www.cs.stanford.edu/">Stanford University</a> supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Fellowship</a>
+I'm a CS PhD at <a href="https://www.cs.stanford.edu/">Stanford University</a> supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Scholars</a> fellowship
 
 **Research:**
 
