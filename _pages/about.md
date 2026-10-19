@@ -23,10 +23,4 @@ social: true # includes social icons at the bottom of the page
 
 I'm a CS PhD student at <a href="https://www.cs.stanford.edu/">Stanford University</a> supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Scholars</a> fellowship
 
-**Research:**
-
-1) <a href="https://asadaali.com/medval">MedVAL</a>: An expert-level AI system for detecting errors in AI-generated medical text (<a href="https://arxiv.org/abs/2507.03152">Paper</a>)
-   
-2) <a href="https://github.com/stanford-crfm/helm/pull/3893">DSPy-HELM</a>: A systematic integration of <a href="https://dspy.ai/">DSPy</a> prompting with <a href="https://crfm.stanford.edu/helm/">HELM</a> benchmarking (<a href="https://arxiv.org/abs/2511.20836">Paper</a>)
-
 <br>
