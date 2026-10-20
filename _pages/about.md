@@ -8,7 +8,6 @@ profile:
   align: center
   image: prof_pic.jpg
   image2: stanford.png
-  image3: khs_logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
