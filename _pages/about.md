@@ -7,7 +7,7 @@ subtitle: CS PhD @ <a href="https://profiles.stanford.edu/asadaali">Stanford</a>
 profile:
   align: center
   image: prof_pic.jpg
-  image2: khs_logo.png
+  image2: stanford.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
